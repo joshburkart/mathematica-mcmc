@@ -14,5 +14,3 @@ Mathematica package containing a general-purpose [Markov chain Monte Carlo](http
 
  * `mcmc.m`: Package file
  * `mcmc_demonst.nb`: Demonstrations and documentation
-
-For a good Python MCMC implementation, check out [emcee](http://dan.iel.fm/emcee).
